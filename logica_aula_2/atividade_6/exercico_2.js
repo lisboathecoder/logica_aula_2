@@ -1,4 +1,4 @@
-let nota = 75
+let nota = 45
 
 if (nota >= 90) {
     console.log(`Consegue realizar tarefas e Ajudar`)
@@ -13,7 +13,7 @@ else if(nota >= 50) {
     console.log(`Consegue realizar tarefas com ajuda!`)
 }
 else {
-    console.log(`Reprovado.`)
+    console.log(`Reprovado`)
 }
 
 // Gustavo Teixeira Lisboa
