@@ -1,4 +1,4 @@
-let valor = 23
+let valor = 10
 if (valor%2 == 0){
     console.log(`O número ${valor} recebido é par!`)
 }
